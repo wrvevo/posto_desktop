@@ -13,7 +13,7 @@ O projeto foi pensado com abordagem offline-first, permitindo operação normal 
 O banco roda em Docker.
 
 Subir o SQL Server
-docker compose up -d
+- docker compose up -d
 
 # Dados de Acesso ao banco de daso SQL SERVER
 Servidor	localhost,1433
