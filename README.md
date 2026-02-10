@@ -20,3 +20,41 @@ Subir o SQL Server
  - Usuário	sa
  - Senha	StrongPass!123
  - Banco	FuelLocalDb
+
+ # Tecnologias
+
+ | Camada         | Tecnologia         |
+| -------------- | ------------------ |
+| UI             | WinForms (.NET)    |
+| Linguagem      | C#                 |
+| Banco Local    | SQL Server         |
+| Acesso a Dados | ADO.NET            |
+| Resiliência    | Polly              |
+| API Online     | Java + Spring Boot |
+| Banco Online   | PostgreSQL         |
+| Infra          | Docker             |
+
+
+
+# 🚀 Funcionalidades
+✔️ Operação Local (Offline)
+
+Cadastro de Bombas de Combustível
+
+Controle de estoque em litros
+
+Registro de consumos
+
+Persistência local em SQL Server
+
+# 🔁 Sincronização Online
+
+Envio de consumos não sincronizados para API REST
+
+Retry automático com Polly
+
+Backoff exponencial
+
+Controle de status de sincronização
+
+Base preparada para Dead Letter
