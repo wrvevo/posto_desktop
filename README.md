@@ -1,4 +1,4 @@
-# posto_desktop
+# POSTO DESKTOP
 Aplicação desktop (Windows) desenvolvida em C# / WinForms, responsável pelo controle local de bombas de combustível e registros de consumo, com sincronização automática para uma API online.
 
 O projeto foi pensado com abordagem offline-first, permitindo operação normal mesmo sem internet, com sincronização posterior.
