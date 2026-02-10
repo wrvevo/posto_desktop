@@ -8,6 +8,10 @@ O projeto foi pensado com abordagem offline-first, permitindo operação normal 
  - dotnet add package Polly.Extensions.Http
  - dotnet add package Microsoft.Data.SqlClient
  - dotnet add package Microsoft.Extensions.Hosting
+ - dotnet add package Microsoft.Extensions.DependencyInjection
+ - dotnet add package Microsoft.Extensions.Logging
+ - dotnet add package Microsoft.Data.SqlClient
+ - dotnet add package Dapper
 
 
 # Banco de Dados Local (SQL Server)
