@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\POC\\WORKSPACE\\posto_desktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26173994-2D04-448D-A2EC-35D7E3B75C67}|posto_desktop.csproj|c:\\poc\\workspace\\posto_desktop\\infrastructure\\sync\\syncagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26173994-2D04-448D-A2EC-35D7E3B75C67}|posto_desktop.csproj|solutionrelative:infrastructure\\sync\\syncagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26173994-2D04-448D-A2EC-35D7E3B75C67}|posto_desktop.csproj|c:\\poc\\workspace\\posto_desktop\\domain\\consumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26173994-2D04-448D-A2EC-35D7E3B75C67}|posto_desktop.csproj|solutionrelative:domain\\consumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26173994-2D04-448D-A2EC-35D7E3B75C67}|posto_desktop.csproj|c:\\poc\\workspace\\posto_desktop\\ui\\consumoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26173994-2D04-448D-A2EC-35D7E3B75C67}|posto_desktop.csproj|solutionrelative:ui\\consumoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26173994-2D04-448D-A2EC-35D7E3B75C67}|posto_desktop.csproj|c:\\poc\\workspace\\posto_desktop\\ui\\consumoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26173994-2D04-448D-A2EC-35D7E3B75C67}|posto_desktop.csproj|solutionrelative:ui\\consumoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26173994-2D04-448D-A2EC-35D7E3B75C67}|posto_desktop.csproj|c:\\poc\\workspace\\posto_desktop\\ui\\bombaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26173994-2D04-448D-A2EC-35D7E3B75C67}|posto_desktop.csproj|solutionrelative:ui\\bombaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26173994-2D04-448D-A2EC-35D7E3B75C67}|posto_desktop.csproj|c:\\poc\\workspace\\posto_desktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26173994-2D04-448D-A2EC-35D7E3B75C67}|posto_desktop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26173994-2D04-448D-A2EC-35D7E3B75C67}|posto_desktop.csproj|c:\\poc\\workspace\\posto_desktop\\infrastructure\\repository\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26173994-2D04-448D-A2EC-35D7E3B75C67}|posto_desktop.csproj|solutionrelative:infrastructure\\repository\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26173994-2D04-448D-A2EC-35D7E3B75C67}|posto_desktop.csproj|c:\\poc\\workspace\\posto_desktop\\infrastructure\\repository\\consumorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26173994-2D04-448D-A2EC-35D7E3B75C67}|posto_desktop.csproj|solutionrelative:infrastructure\\repository\\consumorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26173994-2D04-448D-A2EC-35D7E3B75C67}|posto_desktop.csproj|c:\\poc\\workspace\\posto_desktop\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26173994-2D04-448D-A2EC-35D7E3B75C67}|posto_desktop.csproj|solutionrelative:ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26173994-2D04-448D-A2EC-35D7E3B75C67}|posto_desktop.csproj|c:\\poc\\workspace\\posto_desktop\\infrastructure\\repository\\bombarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26173994-2D04-448D-A2EC-35D7E3B75C67}|posto_desktop.csproj|solutionrelative:infrastructure\\repository\\bombarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26173994-2D04-448D-A2EC-35D7E3B75C67}|posto_desktop.csproj|c:\\poc\\workspace\\posto_desktop\\ui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26173994-2D04-448D-A2EC-35D7E3B75C67}|posto_desktop.csproj|solutionrelative:ui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsumoForm.Designer.cs",
+              "DocumentMoniker": "C:\\POC\\WORKSPACE\\posto_desktop\\UI\\ConsumoForm.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\ConsumoForm.Designer.cs",
+              "ToolTip": "C:\\POC\\WORKSPACE\\posto_desktop\\UI\\ConsumoForm.Designer.cs",
+              "RelativeToolTip": "UI\\ConsumoForm.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:14:58.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsumoForm.cs",
+              "DocumentMoniker": "C:\\POC\\WORKSPACE\\posto_desktop\\UI\\ConsumoForm.cs",
+              "RelativeDocumentMoniker": "UI\\ConsumoForm.cs",
+              "ToolTip": "C:\\POC\\WORKSPACE\\posto_desktop\\UI\\ConsumoForm.cs",
+              "RelativeToolTip": "UI\\ConsumoForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvx0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:13:27.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SyncAgent.cs",
+              "DocumentMoniker": "C:\\POC\\WORKSPACE\\posto_desktop\\Infrastructure\\Sync\\SyncAgent.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Sync\\SyncAgent.cs",
+              "ToolTip": "C:\\POC\\WORKSPACE\\posto_desktop\\Infrastructure\\Sync\\SyncAgent.cs",
+              "RelativeToolTip": "Infrastructure\\Sync\\SyncAgent.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwCsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:09:56.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsumoRepository.cs",
+              "DocumentMoniker": "C:\\POC\\WORKSPACE\\posto_desktop\\Infrastructure\\Repository\\ConsumoRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\ConsumoRepository.cs",
+              "ToolTip": "C:\\POC\\WORKSPACE\\posto_desktop\\Infrastructure\\Repository\\ConsumoRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\ConsumoRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAnwDUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:09:15.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\POC\\WORKSPACE\\posto_desktop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\POC\\WORKSPACE\\posto_desktop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:56:50.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Consumo.cs",
+              "DocumentMoniker": "C:\\POC\\WORKSPACE\\posto_desktop\\Domain\\Consumo.cs",
+              "RelativeDocumentMoniker": "Domain\\Consumo.cs",
+              "ToolTip": "C:\\POC\\WORKSPACE\\posto_desktop\\Domain\\Consumo.cs",
+              "RelativeToolTip": "Domain\\Consumo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:09:45.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BombaForm.Designer.cs",
+              "DocumentMoniker": "C:\\POC\\WORKSPACE\\posto_desktop\\UI\\BombaForm.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\BombaForm.Designer.cs",
+              "ToolTip": "C:\\POC\\WORKSPACE\\posto_desktop\\UI\\BombaForm.Designer.cs",
+              "RelativeToolTip": "UI\\BombaForm.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T17:44:49.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\POC\\WORKSPACE\\posto_desktop\\Infrastructure\\Repository\\DbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\DbConnectionFactory.cs",
+              "ToolTip": "C:\\POC\\WORKSPACE\\posto_desktop\\Infrastructure\\Repository\\DbConnectionFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\DbConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:18:56.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BombaRepository.cs",
+              "DocumentMoniker": "C:\\POC\\WORKSPACE\\posto_desktop\\Infrastructure\\Repository\\BombaRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\BombaRepository.cs",
+              "ToolTip": "C:\\POC\\WORKSPACE\\posto_desktop\\Infrastructure\\Repository\\BombaRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\BombaRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwC8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:08:41.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\POC\\WORKSPACE\\posto_desktop\\UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "UI\\MainForm.cs",
+              "ToolTip": "C:\\POC\\WORKSPACE\\posto_desktop\\UI\\MainForm.cs",
+              "RelativeToolTip": "UI\\MainForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:06:16.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\POC\\WORKSPACE\\posto_desktop\\UI\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\MainForm.Designer.cs",
+              "ToolTip": "C:\\POC\\WORKSPACE\\posto_desktop\\UI\\MainForm.Designer.cs",
+              "RelativeToolTip": "UI\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:05:20.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
