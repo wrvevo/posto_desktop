@@ -7,7 +7,8 @@ O projeto foi pensado com abordagem offline-first, permitindo operação normal 
  - dotnet add package Polly
  - dotnet add package Polly.Extensions.Http
  - dotnet add package Microsoft.Data.SqlClient
- - dotnet new classlib -n FuelEdgeConnector.Core
+ - dotnet add package Microsoft.Extensions.Hosting
+
 
 # Banco de Dados Local (SQL Server)
 
