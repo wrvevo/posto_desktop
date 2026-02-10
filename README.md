@@ -16,7 +16,7 @@ Subir o SQL Server
 - docker compose up -d
 
 # Dados de Acesso ao banco de daso SQL SERVER
-Servidor	localhost,1433
-Usuário	sa
-Senha	StrongPass!123
-Banco	FuelLocalDb
+ - Servidor	localhost,1433
+ - Usuário	sa
+ - Senha	StrongPass!123
+ - Banco	FuelLocalDb
