@@ -4,9 +4,9 @@ Aplicação desktop (Windows) desenvolvida em C# / WinForms, responsável pelo c
 O projeto foi pensado com abordagem offline-first, permitindo operação normal mesmo sem internet, com sincronização posterior.
 
 # Execute Packages
-dotnet add package Polly
-dotnet add package Polly.Extensions.Http
-dotnet add package Microsoft.Data.SqlClient
+ - dotnet add package Polly
+ - dotnet add package Polly.Extensions.Http
+ - dotnet add package Microsoft.Data.SqlClient
 
 # Banco de Dados Local (SQL Server)
 
